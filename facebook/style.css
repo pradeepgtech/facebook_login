@@ -1,0 +1,40 @@
+body{
+        width:250px;
+        height:400px;
+        text-align: center;
+        font-size:larger;
+        padding: 30px;
+        margin-top: 70px;
+        margin-left: 570px;
+        border: 1px solid ;
+        
+}
+
+.pra2 {
+    background-color:blue;
+    color:azure;
+    width: 170px;
+    /* height:20px; */
+    border-color: blue;
+    }
+    .pra3{
+        color: blue;
+        }
+    
+    .par4{ 
+        border:10px solid green;
+        background-color: green;
+        color:azure;
+        width: 180px;
+        margin-left: 25px;
+        text-align: center;
+    }
+    
+    input{
+        border-radius: 6px;
+        border: none;
+        background-color: rgb(246, 248, 255);
+        padding-block: 10px;
+        padding-inline: 16px;
+    }
+    
